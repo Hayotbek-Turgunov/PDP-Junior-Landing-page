@@ -32,7 +32,7 @@
           placeholder="+998 -- --- -- --"
         />
       </div>
-      <div class="w-[100%] flex justify-center">
+      <div class="w-[100%] flex justify-center mb-[58px]">
         <button
           class="bg-[#00B534] px-[30px] py-[18px] rounded-2xl text-white font-semibold text-[22px]"
         >
