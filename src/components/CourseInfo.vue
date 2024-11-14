@@ -6,7 +6,7 @@
   <div class="relative mt-24">
     <div class="max-w-[990px] mx-auto">
       <div
-        class="border w-[990px] h-[350px] px-[39px] py-[33px] rounded-2xl bg-white relative z-10 flex gap-[89px]"
+        class="border w-[990px] h-[350px] px-[39px] py-[33px] rounded-2xl bg-white relative z-10 flex gap-[89px] pb-[33px]"
       >
         <div>
           <img :src="courseRoboto" alt="" />
@@ -64,7 +64,7 @@
   <div class="relative mt-24">
     <div class="max-w-[990px] mx-auto">
       <div
-        class="border w-[990px] h-[350px] px-[39px] py-[33px] rounded-2xl bg-white relative z-10 flex gap-[170px] items-center pl-[110px]"
+        class="border w-[990px] h-[350px] px-[39px] py-[33px] rounded-2xl bg-white relative z-10 flex gap-[170px] items-center pl-[110px] pb-[33px]"
       >
         <div>
           <img :src="courseFront" alt="" />
@@ -122,7 +122,7 @@
   <div class="relative mt-24">
     <div class="max-w-[990px] mx-auto">
       <div
-        class="border w-[990px] h-[350px] px-[39px] py-[33px] rounded-2xl bg-white relative z-10 flex gap-[89px]"
+        class="border w-[990px] h-[350px] px-[39px] py-[33px] rounded-2xl bg-white relative z-10 flex gap-[89px] pb-[33px]"
       >
         <div>
           <img :src="coursePython" alt="" />
@@ -177,7 +177,7 @@
   <div class="relative mt-24">
     <div class="max-w-[990px] mx-auto">
       <div
-        class="border w-[990px] h-[350px] px-[39px] py-[33px] rounded-2xl bg-white relative z-10 flex gap-[130px] items-center pl-20 mb-[92px]"
+        class="border w-[990px] h-[350px] px-[39px] py-[33px] rounded-2xl bg-white relative z-10 flex gap-[130px] items-center pl-20 mb-[92px] pb-[33px]"
       >
         <div>
           <img :src="courseScratch" alt="" />

@@ -14,7 +14,7 @@
   </div>
 
   <h2 class="text-center text-[32px] font-bold">Hoziroq ro'yhatdan o'ting</h2>
-  <p class="text-[#00000040] font-medium text-center text-[21px] font-bold">
+  <p class="text-[#00000040] text-center text-[21px] font-bold">
     va farzandingiz kelajagi uchun muhim qadamni tashlang
   </p>
 
