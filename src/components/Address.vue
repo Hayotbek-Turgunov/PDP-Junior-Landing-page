@@ -6,9 +6,9 @@
   </div>
 
   <div class="flex items-center">
-    <img class="w-[50%]" :src="addressImg" alt="" />
+    <img class="w-[50%] h-[507px] object-cover" :src="addressImg" alt="" />
 
-    <img class="w-[50%]" :src="addressGps" alt="" />
+    <img class="w-[50%] h-[507px] object-cover" :src="addressGps" alt="" />
   </div>
 </template>
 

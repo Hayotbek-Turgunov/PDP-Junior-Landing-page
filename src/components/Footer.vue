@@ -1,6 +1,6 @@
 <template>
   <footer class="bg-[#012A30] h-[200px] pt-[39px]">
-    <div class="max-w-[1280px] mx-auto">
+    <div class="max-w-[990px] mx-auto">
       <div class="flex items-center justify-between mb-[22px]">
         <a href="">
           <img class="w-[138px] h-[38px]" :src="headerLogo" alt="" />

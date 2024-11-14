@@ -2,7 +2,7 @@
   <header
     class="bg-slate-800 py-5 bg-gradient-to-r from-[#012A30] via-[#012A30] via-43% to-[#00b533c5] to-80%"
   >
-    <div class="max-w-[1280px] mx-auto px-2">
+    <div class="max-w-[992px] mx-auto px-2">
       <div class="flex items-center">
         <a href="" class="mr-8 block">
           <img class="w-[100px] h-6" :src="headerLogo" alt="header logo" />

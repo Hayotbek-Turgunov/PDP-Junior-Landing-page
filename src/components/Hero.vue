@@ -1,6 +1,6 @@
 <template>
   <div class="hero">
-    <div class="max-w-[1280px] mx-auto pt-[70px] relative">
+    <div class="max-w-[990px] mx-auto pt-[70px] relative">
       <div class="relative">
         <div
           class="border w-[483px] h-[463px] px-[39px] py-[33px] rounded-2xl bg-white relative z-10"
