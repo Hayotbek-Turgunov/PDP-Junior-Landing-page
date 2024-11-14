@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="bg-[#00B534] h-[82px] font-bold flex items-center justify-center mb-[52px]"
-  >
+  <div class="bg-[#00B534] h-[82px] font-bold flex items-center justify-center">
     <h2 class="text-center text-[33px] text-white">Bog'anish uchun</h2>
   </div>
 
